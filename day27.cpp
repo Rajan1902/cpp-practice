@@ -5,6 +5,7 @@ int main()
 {
  int num;
  cin>>num;
+ // using left shift
  cout<<(num<<1);
  return 0;
 }

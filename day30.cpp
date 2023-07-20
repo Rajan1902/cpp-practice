@@ -17,14 +17,13 @@
 using namespace std;
 int main()
 {
- char str1[50]={0};
+ char s[50]={0};
  char c;
  int i=0;
- cout<<"Enter a string: ";
- fgets(str1,sizeof(str1),stdin);
+ fgets(s,sizeof(s),stdin);
  while(1)
  {
- c=str1[i];
+ c=s[i];
  if(c=='\n')
  break;
  i++;

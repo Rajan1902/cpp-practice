@@ -1,3 +1,11 @@
+//day 31: Write a Program to Toggle each character in a string
+// Description
+// Get an input string from user and then convert the lower case of alphabets to upper case and all uppercase alphabets into lower case.
+// Input
+// Hello
+// Output
+// hELLO
+
 #include<iostream>
 #include <string.h>
 using namespace std;
