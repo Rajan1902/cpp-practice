@@ -47,6 +47,5 @@ int main(){
     cout<<"Smallest Number :"<<endl<<low<<endl;
     cout<<"Greatest Number :"<<endl<<high;
     
-
     return 0;
 }

@@ -50,9 +50,6 @@ int main(){
     }
     else cout<<"not same";
 
-
-    // cout<<a<<b;
     return 0;
-    
 
 }

@@ -25,7 +25,6 @@
 // Output
 
 // The new string :
-1
 // studentbattle
 #include <iostream>
 #include <string.h>
