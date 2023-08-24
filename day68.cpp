@@ -66,9 +66,9 @@ int main()
  }
  else if(n==3){
  if(s.find(a) != s.end())
- cout << "Yes\n";
+ cout << "Yes"<<endl;
  else
- cout << "No\n";
+ cout << "No"<<endl;
  }
  }
  return 0;
